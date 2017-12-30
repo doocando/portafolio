@@ -5,9 +5,8 @@ phases:
     commands:
       -echo nothing to do yet
 artifacts:
-  files:  
-    -indexmhtl.
+  files:
+    -index.html
     -favicon.ico
     -styles/main.css
     -images/*
-          
